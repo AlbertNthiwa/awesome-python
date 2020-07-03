@@ -478,6 +478,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [saltstack](https://github.com/saltstack/salt) - Infrastructure automation and management system.
     * [cloudinit](https://cloudinit.readthedocs.io/en/latest/) - A multi-distribution package that handles early initialization of a cloud instance.
     * [OpenStack](https://www.openstack.org/) - Open source software for building private and public clouds.
+    * [pyinfra](https://github.com/Fizzadar/pyinfra) - A versatile CLI tools and python libraries to automate infrastructure.
 * SSH-style Deployment
     * [fabric](https://github.com/fabric/fabric) - A simple, Pythonic tool for remote execution and deployment.
     * [fabtools](https://github.com/fabtools/fabtools) - Tools for writing awesome Fabric files.
@@ -739,6 +740,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [pillow](https://github.com/python-pillow/Pillow) - Pillow is the friendly [PIL](http://www.pythonware.com/products/pil/) fork.
 * [pyBarcode](https://pythonhosted.org/pyBarcode/) - Create barcodes in Python without needing PIL.
 * [pygram](https://github.com/ajkumar25/pygram) - Instagram-like image filters.
+* [PyMatting](http://github.com/pymatting/pymatting) - A library for alpha matting.
 * [python-qrcode](https://github.com/lincolnloop/python-qrcode) - A pure Python QR Code generator.
 * [Quads](https://github.com/fogleman/Quads) - Computer art based on quadtrees.
 * [scikit-image](http://scikit-image.org/) - A Python library for (scientific) image processing.
@@ -1111,6 +1113,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * GUI / Web Testing
     * [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python.
     * [PyAutoGUI](https://github.com/asweigart/pyautogui) - PyAutoGUI is a cross-platform GUI automation Python module for human beings.
+    * [Schemathesis](https://github.com/kiwicom/schemathesis) - A tool for automatic property-based testing of web applications built with Open API / Swagger specifications.
     * [Selenium](https://pypi.org/project/selenium/) - Python bindings for [Selenium](http://www.seleniumhq.org/) WebDriver.
     * [sixpack](https://github.com/seatgeek/sixpack) - A language-agnostic A/B Testing framework.
     * [splinter](https://github.com/cobrateam/splinter) - Open source tool for testing web applications.
