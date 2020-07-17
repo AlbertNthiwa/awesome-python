@@ -679,6 +679,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [Harfang3D](http://www.harfang3d.com) - Python framework for 3D, VR and game development.
 * [Panda3D](https://www.panda3d.org/) - 3D game engine developed by Disney.
 * [Pygame](http://www.pygame.org/news.html) - Pygame is a set of Python modules designed for writing games.
+* [Arcade](https://arcade.academy/index.html) - Arcade is a modern Python framework for crafting games with compelling graphics and sound.
 * [PyOgre](http://www.ogre3d.org/tikiwiki/PyOgre) - Python bindings for the Ogre 3D render engine, can be used for games, simulations, anything 3D.
 * [PyOpenGL](http://pyopengl.sourceforge.net/) - Python ctypes bindings for OpenGL and it's related APIs.
 * [PySDL2](https://pysdl2.readthedocs.io) - A ctypes based wrapper for the SDL2 library.
@@ -809,6 +810,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [logbook](http://logbook.readthedocs.io/en/stable/) - Logging replacement for Python.
 * [loguru](https://github.com/Delgan/loguru) - Library which aims to bring enjoyable logging in Python.
 * [sentry-python](https://github.com/getsentry/sentry-python) - Sentry SDK for Python.
+* [structlog](https://www.structlog.org/en/stable/) - Structured logging made easy.
 
 ## Machine Learning
 
