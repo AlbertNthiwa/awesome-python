@@ -65,6 +65,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     - [ORM](#orm)
     - [Package Management](#package-management)
     - [Package Repositories](#package-repositories)
+    - [Penetration testing](#penetration-testing)
     - [Permissions](#permissions)
     - [Processes](#processes)
     - [Recommender Systems](#recommender-systems)
@@ -249,6 +250,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever.
 * Code Formatters
     * [black](https://github.com/python/black) - The uncompromising Python code formatter.
+    * [isort](https://github.com/timothycrosley/isort) - A Python utility / library to sort imports.
     * [yapf](https://github.com/google/yapf) - Yet another Python code formatter from Google.
 * Static Type Checkers, also see [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing)
     * [mypy](http://mypy-lang.org/) - Check variable types during compile time.
@@ -662,6 +664,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [Toga](https://github.com/pybee/toga) - A Python native, OS native GUI toolkit.
 * [urwid](http://urwid.org/) - A library for creating terminal GUI applications with strong support for widgets, events, rich colors, etc.
 * [wxPython](https://wxpython.org/) - A blending of the wxWidgets C++ class library with the Python.
+* [DearPyGui](https://github.com/RaylockLLC/DearPyGui/) - A Simple GPU accelerated Python GUI framework
 
 ## GraphQL
 
@@ -748,6 +751,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [pygram](https://github.com/ajkumar25/pygram) - Instagram-like image filters.
 * [PyMatting](http://github.com/pymatting/pymatting) - A library for alpha matting.
 * [python-qrcode](https://github.com/lincolnloop/python-qrcode) - A pure Python QR Code generator.
+* [pywal](https://github.com/dylanaraps/pywal) - A tool that generates color schemes from images.
 * [pyvips](https://github.com/libvips/pyvips) - A fast image processing library with low memory needs.
 * [Quads](https://github.com/fogleman/Quads) - Computer art based on quadtrees.
 * [scikit-image](http://scikit-image.org/) - A Python library for (scientific) image processing.
@@ -919,6 +923,14 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [localshop](https://github.com/jazzband/localshop) - Local PyPI server (custom packages and auto-mirroring of pypi).
 * [warehouse](https://github.com/pypa/warehouse) - Next generation Python Package Repository (PyPI).
 
+## Penetration Testing
+
+*Frameworks and tools for penetration testing.*
+
+* [fsociety](https://github.com/Manisso/fsociety) - A Penetration testing framework.
+* [setoolkit](https://github.com/trustedsec/social-engineer-toolkit) - A toolkit for social engineering.
+* [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool.
+
 ## Permissions
 
 *Libraries that allow or deny users access to data or functionality.*
@@ -1079,6 +1091,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 * [lektor](https://github.com/lektor/lektor) - An easy to use static CMS and blog engine.
 * [mkdocs](https://github.com/mkdocs/mkdocs/) - Markdown friendly documentation generator.
+* [makesite](https://github.com/sunainapai/makesite) - Simple, lightweight, and magic-free static site/blog generator (< 130 lines).
 * [nikola](https://github.com/getnikola/nikola) - A static website and blog generator.
 * [pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax.
 
@@ -1093,6 +1106,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 *Libraries for working with task queues.*
 
 * [celery](http://www.celeryproject.org/) - An asynchronous task queue/job queue based on distributed message passing.
+* [daramatiq](https://github.com/Bogdanp/dramatiq) - A fast and reliable background task processing library for Python 3.
 * [huey](https://github.com/coleifer/huey) - Little multi-threaded task queue.
 * [mrq](https://github.com/pricingassistant/mrq) - A distributed worker task queue in Python using Redis & gevent.
 * [rq](https://github.com/rq/rq) - Simple job queues for Python.
